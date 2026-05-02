@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivam</h1>
-<h3 align="center">🚀 MERN Stack Developer | Problem Solver | Tech Enthusiast</h3>
+<h3 align="center">🚀 MERN Stack Developer | Problem Solver</h3>
 
 <p align="center">
   <a href="https://shivam-s-portfolio-tau.vercel.app/">Portfolio</a> •
@@ -11,10 +11,10 @@
 
 ### 👨‍💻 About Me
 - 🎓 B.Tech CSE student at **Lovely Professional University**
-- 💻 Passionate about **Full Stack Development (MERN)**
-- 🔥 Solved **300+ DSA problems** on LeetCode  
-- 🧠 Strong in **C++, JavaScript, and Problem Solving**
-- 🚀 Currently building a **Real-time Chat Application**
+- 💻 Focused on **Full Stack Development (MERN)**
+- 🧩 Solved **300+ DSA problems** on LeetCode  
+- ⚡ Strong in **C++, JavaScript, and Backend Development**
+- 🚀 Currently working on a **Chat Application**
 
 ---
 
@@ -42,24 +42,9 @@
 
 ---
 
-### 🚀 Projects
-
-#### 🔹 Dayline – Task Manager (MERN)
-- 🔐 JWT Authentication (Login/Register)
-- 📊 Responsive dashboard with CRUD operations
-- ⚡ Real-time UI updates using React + Tailwind  
-- 🌐 REST APIs with Node.js & MongoDB  
-
-#### 🔹 Airbnb-Lite
-- 🏠 Property listing platform (MVC Architecture)
-- ✏️ Add/Edit listings with authentication
-- 📄 Dynamic UI using EJS templates  
-
----
-
 ### 🏆 Achievements
-- 🧩 Solved **300+ DSA problems** on LeetCode  
-- 🥇 Earned **100-days & 50-days consistency badges**  
+- 🧠 Solved **300+ DSA problems** on LeetCode  
+- 🔥 Earned **100-days & 50-days consistency badges**  
 - ⭐ HackerRank: **5★ in C++ & SQL**
 
 ---
@@ -98,4 +83,4 @@
 ---
 
 ### ⚡ Fun Fact
-> I love turning ideas into real-world applications and solving complex problems with clean code.
+> I enjoy solving complex problems and building scalable web applications.
